@@ -1,0 +1,15 @@
+package constants;
+
+
+public interface WebtasksConstants {
+	String CONTEXT = "CONTEXT";
+	String VALIDATION_MESSAGE = "VALIDATION_MESSAGE";
+	String CURRENT_SESSION_ACCOUNT = "CURRENT_SESSION_ACCOUNT";
+	String CURRENT_ROLE = "CURRENT_ROLE";
+	String CURRENT_MAPPING = "CURRENT_MAPPING";
+	String CURRENT_BUTTON = "CURRENT_BUTTON";
+
+	int ROLE_ADMIN = 1;
+	int ROLE_STUDENT = 2;
+
+}
